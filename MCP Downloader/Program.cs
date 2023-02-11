@@ -36,28 +36,18 @@ namespace Polly
                     pname[0].WaitForExit();
                     string Optifine = "https://raw.githubusercontent.com/Hexeption/Optifine-SRC/master/Optifine%20SRC%20Version%20%5B1.8.8%20HD%20U%20H8%5D.zip";
                     Console.Clear();
-                    Console.WriteLine("Would you like optifine? (Y/N)");
-                    if (Console.ReadKey().Equals(ConsoleKey.Y))
+                    wc.DownloadFile(Optifine, filePath + @"\Optifine.zip");
+                    if (File.Exists(filePath + @"\Optifine.zip"))
                     {
-                        wc.DownloadFile(Optifine, filePath + @"\Optifine.zip");
-                        if (File.Exists(filePath + @"\Optifine.zip"))
-                        {
-                            string[] files = Directory.GetFiles(filePath + @"\1.8.8\src\minecraft");
-                            foreach (string file in files)
-                            {
-                                File.Delete(file);
-                            }
-                            ZipFile.ExtractToDirectory(filePath + @"\Optifine.zip", filePath + @"\1.8.8\src\minecraft");
-                            File.Delete(filePath + @"\Optifine.zip");
-                            Console.Clear();
-                            Console.WriteLine("Optifine Downloaded Successfuly! Press any key to exit...");
-                            Console.ReadKey();
-                        }
-                    }
-                    else
-                    {
+                        string file1 = filePath + @"\1.8.8\src\minecraft\Start.java";
+                        string file2 = filePath + @"\1.8.8\src\minecraft\net";
+                        File.Delete(file1);
+                        Directory.Delete(file2, true);
+                        ZipFile.ExtractToDirectory(filePath + @"\Optifine.zip", filePath + @"\1.8.8\src\minecraft\");
+                        File.Delete(filePath + @"\Optifine.zip");
                         Console.Clear();
-                        Console.WriteLine("Finished!");
+                        Console.WriteLine("Optifine Downloaded Successfuly! Press any key to exit...");
+                        Console.ReadKey();
                     }
                 }
             }
