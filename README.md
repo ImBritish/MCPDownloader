@@ -2,5 +2,4 @@
  MCP 1.8.8 + Optifine
 
 # Bugs
-============
- - test
+ - Stuck on download for MCP
