@@ -1,0 +1,32 @@
+E:\Projects\MCP Downloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.exe
+E:\Projects\MCP Downloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.deps.json
+E:\Projects\MCP Downloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.runtimeconfig.json
+E:\Projects\MCP Downloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.dll
+E:\Projects\MCP Downloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.pdb
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.csproj.AssemblyReference.cache
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.AssemblyInfoInputs.cache
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.AssemblyInfo.cs
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.csproj.CoreCompileInputs.cache
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.csproj.Fody.CopyLocal.cache
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.dll
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\refint\MCP Downloader.dll
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.pdb
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.genruntimeconfig.cache
+E:\Projects\MCP Downloader\MCP Downloader\obj\Debug\net6.0\ref\MCP Downloader.dll
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.exe
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.deps.json
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.runtimeconfig.json
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.dll
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\bin\Debug\net6.0\MCP Downloader.pdb
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.csproj.AssemblyReference.cache
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.AssemblyInfoInputs.cache
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.AssemblyInfo.cs
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.csproj.CoreCompileInputs.cache
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.csproj.Fody.CopyLocal.cache
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.dll
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\refint\MCP Downloader.dll
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.pdb
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\MCP Downloader.genruntimeconfig.cache
+E:\Projects\MCPDownloader\MCPDownloader\MCP Downloader\obj\Debug\net6.0\ref\MCP Downloader.dll
